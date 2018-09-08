@@ -31,3 +31,17 @@ Fortunately, Windows can be used in many different environments. With the help o
 MacOS, was developed by the computer company that goes by the name of Apple Inc, which was founded by Steve Jobs, Ronald Wayne and Steve Wozniak. While Windows operating system was developed in 1985, MacOS was started one year earlier in 1984.
 ![MacOS](https://mtaram.files.wordpress.com/2009/11/main.gif)
 [MacOS Appearance](https://mtaram.files.wordpress.com/2009/11/main.gif)
+
+According to ["Advantages and disadvantages of macOS"](http://www.versiondaily.com/advantages-disadvantages-mac-os-x/), Kristoffer Bonheur, writes how even though Windows is currently the most popular operating system, MacOS is gaining more credit. This may be due to the many advantages that come with MacOS, such as:
+
+* it is very simple to use
+* very few viruses and security issues
+* easy to multitask
+* preloaded productivity apps are associated with it
+* works well with other Apple products
+
+With benefits though, there are always drawbacks. These disadvantages include:
+
+* Mac products are very expensive
+* hardware upgrades can be difficult
+* in competition with Windows for games and other applications 
