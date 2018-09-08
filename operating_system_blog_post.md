@@ -44,4 +44,6 @@ With benefits though, there are always drawbacks. These disadvantages include:
 
 * Mac products are very expensive
 * hardware upgrades can be difficult
-* in competition with Windows for games and other applications 
+* in competition with Windows for games and other applications
+
+Even with the disadvantages, we can relate this back to the marketshare of MacOS, increasing over time. This can be seen in the same graph mentioned earlier titled ["Global operating systems market share for desktop PCs, from January 2013 to July 2018"](https://www.statista.com/statistics/218089/global-market-share-of-windows-7/). Like mentioned before, even though Windows is the most popular operating system in the world, MacOS is starting to make a name for itself. 
