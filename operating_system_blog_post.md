@@ -53,3 +53,18 @@ Even with the disadvantages, we can relate this back to the marketshare of MacOS
 In ["What is Linux?"](https://www.linuxtrainingacademy.com/what-is-linux/), the author shares how the Linux operating system was founded by someone named Linus Torvalds. He began the project in 1991, and after a couple of years of working on it with the help of other developers, the first version of Linux was officially developed in 1994.
 ![Linux](https://images.directoryofshareware.com/full/ibadm_for_linux_business_database_management-24113.gif)
 [Linux Appearance](https://images.directoryofshareware.com/full/ibadm_for_linux_business_database_management-24113.gif)
+
+In speaking about the advantages of Linux, Jennifer Mash, in the article ["Linux: Advantages and Disadvantages of Open-Source Technology"](https://blog.storagecraft.com/linux-advantages-disadvantages-open-source-technology/) includes points such as:
+
+* it is open-source, which means that the original code is available to anyone and can be modified
+* there is increased security
+* wide range of distributions available
+
+On the other hand, though, she also speaks to these disadvantages:
+
+* it is more difficult to find applications that you need
+* switching operating systems, the hardware may not be compatible with Linux as drivers are not commonly written for it
+* it can be difficult to find support/help with the system
+  * there are fees you must pay, whereas for other systems like Windows, it is free
+
+Taking into account such advantages and disadvantages, when looking at the ["Global operating systems market share for desktop PCs, from January 2013 to July 2018"](https://www.statista.com/statistics/218089/global-market-share-of-windows-7/) graph, overtime, it can be seen that the marketshare for Linux has grown. This proves that the advantages outweigh the disadvantages. 
